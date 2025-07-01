@@ -53,15 +53,8 @@ To build an interactive and data-driven dashboard that empowers hospital adminis
 
 ## 📊 Power BI Dashboard Preview
 
+![img alt](https://github.com/sagarkorii94/Papollo_Hospital_Dashboard/blob/d2e760d8ecff64aaf59ec07171bcb340d7bfac12/Preview/SS-1.png)
 
-
----
-
-## 📥 How to Use
-
-1. Open the `.pbix` file using Power BI Desktop.
-2. Connect to your dataset or update the existing data sources.
-3. Refresh data and interact with the visuals using filters and slicers.
 
 ---
 
@@ -75,18 +68,7 @@ To build an interactive and data-driven dashboard that empowers hospital adminis
 
 ---
 
-## 📚 Future Enhancements
-
-- Add real-time bed occupancy using Power BI streaming datasets
-- Include wait time analytics for departments
-- Patient churn prediction using Python integration
-- Mobile-optimized version of the dashboard
-
 ---
-
-## 👨‍⚕️ Author
-
+## 👨‍💻 Author
 **Sagar Kori**  
-💼 Data Analyst | Healthcare Dashboard Enthusiast | Power BI Developer  
-📧 [YourEmail@example.com]  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername)
+💼 Data Analyst | AutoCAD & SQL Enthusiast | Power BI Explorer 
